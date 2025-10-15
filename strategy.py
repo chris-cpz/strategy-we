@@ -1,1 +1,1 @@
-we
+import cpz
